@@ -1,8 +1,8 @@
 
-  <h3 align="center">JobPilot | Match-tracking AI Agent</h3>
+  <h3 align="center">CareerSync | Match-tracking AI Agent</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+   
     </div>
 </div>
  
@@ -128,18 +128,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 See BROWSERBASE_REPORT.md for a detailed report on how Browserbase and Stagehand are used in this project, including the full history of the apply automation experiments and the current project state.
 
-**Deploy on Vercel**
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
 
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsm.dev/jobpilot-jsm" target="_blank">
-  <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
-</a>
+
+
