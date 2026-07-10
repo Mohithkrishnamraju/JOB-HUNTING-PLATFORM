@@ -1,22 +1,3 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/9dKA2hq4vf0" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" />
-<img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<br />
-<img src="https://img.shields.io/badge/-OpenAI%20GPT--4o-412991?style=for-the-badge&logo=OpenAI&logoColor=white" />
-<img src="https://img.shields.io/badge/-Stagehand-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Browserbase-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-InsForge-darkgreen?style=for-the-badge" />
-
-  </div>
 
   <h3 align="center">JobPilot | Match-tracking AI Agent</h3>
 
