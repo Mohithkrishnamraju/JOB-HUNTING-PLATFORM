@@ -1,11 +1,7 @@
 
   <h3 align="center">CareerSync | Match-tracking AI Agent</h3>
 
-   <div align="center">
-   
-    </div>
-</div>
- 
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. ✨ [Introduction](#introduction)
